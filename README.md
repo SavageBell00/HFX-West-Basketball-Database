@@ -5,9 +5,10 @@ My MS SQL Server Script creating personal Basketball Relational Database used fo
 Attached in this file is the Complete DDL, Relationship, Views, and Stored Procedure scripts.
 
 # Data Definition
-'playerInitials' The player initals is the First Initial of the Players First and Last Name.
+`playerInitials` The First Inial of the players First and Last Name.
 
-'Avg PPG' = The Average Points Per Game. 
+`Avg PPG` = The Average Points Per Game.
+* * Formula = (Total Points / Num of Games Played)
 
 # Power BI Screenshots
 
