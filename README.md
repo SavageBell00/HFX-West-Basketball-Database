@@ -4,13 +4,14 @@ My MS SQL Server Script creating personal Basketball Relational Database used fo
 
 Attached in this file is the Complete DDL, Relationship, Views, and Stored Procedure scripts.
 
-# Data Definition
-`playerInitials` The First Inial of the players First and Last Name.
+# Data Definitions
 
-`Avg PPG` = The Average Points Per Game.
+-`playerInitials` The First Inial of the players First and Last Name.
 
-`Avg FgA` = The Average Field Goal Attempts per game.
-`Avg FgM` = The Average Field Goals Made per game (A Field Goal is any 2 point shot made)
+-`Avg PPG` = The Average Points Per Game.
+
+-`Avg FgA` = The Average Field Goal Attempts per game.
+-`Avg FgM` = The Average Field Goals Made per game (A Field Goal is any 2 point shot made)
 `Avg Fg%` = The Average Field Goal Percentage: formula = (FgM / FgA) * 100
 `Avg 3pA` = The Average Three Point Attempts per game.
 `Avg 3pM` = The Average Three Point shots made per game.
