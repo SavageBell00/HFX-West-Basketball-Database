@@ -8,7 +8,24 @@ Attached in this file is the Complete DDL, Relationship, Views, and Stored Proce
 `playerInitials` The First Inial of the players First and Last Name.
 
 `Avg PPG` = The Average Points Per Game.
-* * Formula = (Total Points / Num of Games Played)
+
+`Avg FgA` = The Average Field Goal Attempts per game.
+`Avg FgM` = The Average Field Goals Made per game (A Field Goal is any 2 point shot made)
+`Avg Fg%` = The Average Field Goal Percentage: formula = (FgM / FgA) * 100
+`Avg 3pA` = The Average Three Point Attempts per game.
+`Avg 3pM` = The Average Three Point shots made per game.
+`Avg 3p%` = The Average Three Point Percentage: formula = (3pM / 3pA) * 100
+`Avg FtA` = The Average Free Throw Attempts per game.
+`Avg FtM` = The Average Free Throw shots made per game.
+`Avg Ft%` = The Average Free Throw shot Percentage: formula = (FtM / FtA) * 100
+`Avg Off Rebs` = The Average Offensive Rebounds per game.
+`Avg Deff Rebs` = The Average Defensive Rebounds per game.
+`Avg Rebs` = The Average amount of total Rebounds per game.
+`Avg Assists` = The Average amount of Assists per game.
+`Avg Steals` = The Average amount of Steals per game.
+`Avg Turnovers` = The Average amount of Turnovers per game.
+`Avg Blocks` = The Average amount of Blocks per game.
+`Avg Fouls` = The Average amount of Fouls per game.
 
 # Power BI Screenshots
 
