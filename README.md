@@ -6,27 +6,27 @@ Attached in this file is the Complete DDL, Relationship, Views, and Stored Proce
 
 # Data Definitions
 
--`playerInitials` The First Inial of the players First and Last Name.
+1.`playerInitials` The First Inial of the players First and Last Name.
 
--`Avg PPG` = The Average Points Per Game.
+2.`Avg PPG` = The Average Points Per Game.
 
--`Avg FgA` = The Average Field Goal Attempts per game.
--`Avg FgM` = The Average Field Goals Made per game (A Field Goal is any 2 point shot made)
-`Avg Fg%` = The Average Field Goal Percentage: formula = (FgM / FgA) * 100
-`Avg 3pA` = The Average Three Point Attempts per game.
-`Avg 3pM` = The Average Three Point shots made per game.
-`Avg 3p%` = The Average Three Point Percentage: formula = (3pM / 3pA) * 100
-`Avg FtA` = The Average Free Throw Attempts per game.
-`Avg FtM` = The Average Free Throw shots made per game.
-`Avg Ft%` = The Average Free Throw shot Percentage: formula = (FtM / FtA) * 100
-`Avg Off Rebs` = The Average Offensive Rebounds per game.
-`Avg Deff Rebs` = The Average Defensive Rebounds per game.
-`Avg Rebs` = The Average amount of total Rebounds per game.
-`Avg Assists` = The Average amount of Assists per game.
-`Avg Steals` = The Average amount of Steals per game.
-`Avg Turnovers` = The Average amount of Turnovers per game.
-`Avg Blocks` = The Average amount of Blocks per game.
-`Avg Fouls` = The Average amount of Fouls per game.
+3.`Avg FgA` = The Average Field Goal Attempts per game.
+4.`Avg FgM` = The Average Field Goals Made per game (A Field Goal is any 2 point shot made)
+5.`Avg Fg%` = The Average Field Goal Percentage: formula = (FgM / FgA) * 100
+6.`Avg 3pA` = The Average Three Point Attempts per game.
+7.`Avg 3pM` = The Average Three Point shots made per game.
+8.`Avg 3p%` = The Average Three Point Percentage: formula = (3pM / 3pA) * 100
+9.`Avg FtA` = The Average Free Throw Attempts per game.
+10.`Avg FtM` = The Average Free Throw shots made per game.
+11.`Avg Ft%` = The Average Free Throw shot Percentage: formula = (FtM / FtA) * 100
+12.`Avg Off Rebs` = The Average Offensive Rebounds per game.
+13.`Avg Deff Rebs` = The Average Defensive Rebounds per game.
+14.`Avg Rebs` = The Average amount of total Rebounds per game.
+15.`Avg Assists` = The Average amount of Assists per game.
+16.`Avg Steals` = The Average amount of Steals per game.
+17.`Avg Turnovers` = The Average amount of Turnovers per game.
+18.`Avg Blocks` = The Average amount of Blocks per game.
+19.`Avg Fouls` = The Average amount of Fouls per game.
 
 # Power BI Screenshots
 
