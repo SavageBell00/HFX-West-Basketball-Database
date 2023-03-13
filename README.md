@@ -6,15 +6,15 @@ Attached in this file is the Complete DDL, Relationship, Views, and Stored Proce
 
 # Data Definitions
 
-1.`playerInitials` The First Inial of the players First and Last Name.
+`playerInitials` The First Inial of the players First and Last Name.
 
-2.`Avg PPG` = The Average Points Per Game.
+`Avg PPG` = The Average Points Per Game.
 
-3.`Avg FgA` = The Average Field Goal Attempts per game.
+`Avg FgA` = The Average Field Goal Attempts per game.
 
-4.`Avg FgM` = The Average Field Goals Made per game (A Field Goal is any 2 point shot made)
+`Avg FgM` = The Average Field Goals Made per game (A Field Goal is any 2 point shot made)
 
-5.`Avg Fg%` = The Average Field Goal Percentage: formula = (FgM / FgA) * 100
+`Avg Fg%` = The Average Field Goal Percentage: formula = (FgM / FgA) * 100
 
 6.`Avg 3pA` = The Average Three Point Attempts per game.
 
